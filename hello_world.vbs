@@ -6,3 +6,4 @@ names(3)="Lilly"
 names(4)="Jimmy"
 
 WScript.Echo names (2)
+he

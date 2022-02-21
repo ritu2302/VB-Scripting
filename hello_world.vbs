@@ -4,7 +4,7 @@ Dim input1, input2,sum,name
 
 'Getting input from the user
 name= InputBox("Enter your name")
-input1= InputBox("Enter the first number")
+input1= InputBox("Enter the first number :", SITE_TITLE,"Enter Input here")
 input2= InputBox("Enter the second number")
 
 'Processing 

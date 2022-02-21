@@ -9,3 +9,4 @@ num2=10
 'Processing
 sum = num1+num2+bonus
 MsgBox sum 
+MsgBox "The sum of" & num1 & "and" & num2 & "is" & sum 

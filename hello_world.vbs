@@ -1,9 +1,4 @@
-Dim names(4)
-names(0)="Peter"
-names(1)="Mike"
-names(2)="Sara"
-names(3)="Lilly"
-names(4)="Jimmy"
-
-WScript.Echo names (2)
-he
+Const SITE_TITLE ="www.CodingGears.com"
+Dim arrTitle1
+arrTitle1= Split(SITE_TITLE1, ".")
+WScript.Echo arrTitle1(0)

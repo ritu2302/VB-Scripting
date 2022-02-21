@@ -1,2 +1,3 @@
-MsgBox("HELLO WORLD!")
-WScript.Echo "Hello world -2!"
+' This is a comment line
+' This is a comment line
+WScript.Echo "Hello World"
